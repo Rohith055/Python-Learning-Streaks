@@ -1,5 +1,4 @@
 # Copying an array
-
 from numpy import *
 
 # It is a basic method for copying an array.
@@ -36,4 +35,4 @@ arr5[1] = 11
 # Lets print this whether the value changes on a single array(arr5) or the both the arrys (arr6)
 print(arr5)
 print(arr6)
-# In result it changes the values of a single array(arr3) the arrays
+# In result it changes the values of a single array(arr3) the arrays.
