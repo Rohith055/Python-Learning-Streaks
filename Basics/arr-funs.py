@@ -1,10 +1,10 @@
 from numpy import *
-
-# arr = array([1,2,3,4,5])
-# # It adds 5 to all elements in the array
-# arr = arr +5
-# print(arr)
-
+"""
+arr = array([1,2,3,4,5])
+# It adds 5 to all elements in the array
+arr = arr +5
+print(arr)
+"""
 
 # Adding the two arrays.
 arr1 = array([1,2,3,4,5])
