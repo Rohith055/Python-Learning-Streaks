@@ -17,6 +17,5 @@ def fact(x):
     1 * fact(1-1) = 1 * 0!
     """
     return x * (fact(x-1))
-
-result = fact(x)
+result = fact(x)# Calling the defined func fact
 print(result)
