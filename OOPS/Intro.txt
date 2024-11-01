@@ -1,0 +1,17 @@
+Here we are came across the functions, variables and modules etc..
+
+ OOPS -Object Oriented Programming
+
+ Here the python supports the Object oriented and the Procedure oriented Programming
+
+In here we are going to see about the main conceptas in OOPS
+
+which is 
+
+> classes 
+> objects
+> polymorphism 
+> abstraction
+> encapsulation
+
+
