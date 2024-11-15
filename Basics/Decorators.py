@@ -3,7 +3,7 @@ def div(x,y):
     return x/y
 res=div(2,4)
 print(res)
-# In the above program we need to swap the values for obtaining the int value as 2.0
+# In the above program we need to swap the values for obtaining the int value as 2.0 (Float)
 # For that we have to use conditional statements for swapping the values
 # In some scenario the file is not accessible or changalable. In that case we have to use the decorators
 
