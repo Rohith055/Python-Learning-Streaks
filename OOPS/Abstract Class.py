@@ -37,3 +37,6 @@ class Venue:
 d4 = Vend()  # Instance of Vend, which is derived from Dupli
 d3 = Venue() # Instance of Venue
 d3.ven(d4)   # Pass d4 (Vend object) to the ven method.
+
+# In here it shprtly expresses the Abstract class should be inherited from all it sub classes.
+# It should be the method which is called inside the abstract class is abstract method.
